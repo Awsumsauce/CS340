@@ -22,6 +22,6 @@
 3. What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
    My definition of a computer scientist is someone who builds systems that help people use data in a useful way. In the project, I completed a dashboard that allows the users to filter animals, visualize the data,
-   and view the animals location on a map. Instead of having to search through all of the raw data, the user can quickly find what they need. This kind of work matters because companies vastly rely on data to
+   and view the animal's location on a map. Instead of having to search through all of the raw data, the user can quickly find what they need. This kind of work matters because companies vastly rely on data to
    help them make decisions. A tool like this helps an organization to save time and to work more efficiently. For a company like Grazioso Salvare, this could mean finding the right rescue animal a lot faster.
    Overall, computer scientists help turn information into tools that people can easily use.
